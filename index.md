@@ -1,1 +1,1 @@
-I have blogged everything I made.
+Here I blog everything I make!
