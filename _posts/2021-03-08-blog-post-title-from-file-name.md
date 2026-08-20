@@ -1,27 +1,7 @@
-## Blog Post Title From First Header
+## Binary Reader Writer
 
-Word
+It can rw strings and digits into a .bin file.
 
 ---
 
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```c
-#include <stdio.h>
-
-int main(void)
-{
-    printf("HI");
-}
-```
+GitHub Link: https://github.com/ahmadmustafa96/binary_reader_writer
