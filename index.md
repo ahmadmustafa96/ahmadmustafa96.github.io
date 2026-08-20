@@ -1,1 +1,1 @@
-Here I blog everything I make!
+A blog of everything I make!
